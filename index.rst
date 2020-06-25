@@ -1,12 +1,8 @@
-Welcome to docs.specflow.org's documentation!
+Welcome to docs.specflow.org!
 =============================================
 
+You can find the documents for our products
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- `SpecFlow <https://docs.specflow.org/project/specflow>`_
+- `SpecFlow+ Runner <https://docs.specflow.org/project/specflowplusrunner>`_
+- `SpecFlow+ LivingDoc <https://docs.specflow.org/project/specflowpluslivingdoc>`_
