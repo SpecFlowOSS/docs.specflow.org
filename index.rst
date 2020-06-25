@@ -6,9 +6,6 @@
 Welcome to docs.specflow.org's documentation!
 =============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 
 
