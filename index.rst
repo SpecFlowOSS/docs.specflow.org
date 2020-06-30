@@ -1,5 +1,5 @@
 Welcome to docs.specflow.org!
-=============================================
+=============================
 
 You can find the documents for our products
 
