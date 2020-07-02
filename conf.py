@@ -52,7 +52,8 @@ html_static_path = ['_static']
 html_theme_options = {
     'canonical_url':'https://docs.specflow.org',
     'display_version':'false',
-    'logo_only': True
+    'logo_only': True,
+    'analytics_id':'UA-11088967-5'
 }
 html_logo = '_static/logo.png'
 html_css_files = [
