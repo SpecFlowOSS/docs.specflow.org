@@ -7,4 +7,3 @@
 - Darren Caulthon: SpecFlow Assist Demo: [Video (Youtube)](http://www.youtube.com/watch?v=Dsk0EE43Tg4)
 - Darren Caulthon: SpecFlow Assist Comparison Helper Methods Demo: [Video (Youtube)](http://www.youtube.com/watch?v=nu5tJIuB62s)
 - Execute Automation: [BDD and SpecFlow video series](https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI)
-- Developer Melange podcast: [Is BDD worth the overhead?](https://developermelange.github.io/003-bdd-and-generalist-vs-specialist) (audio only podcast)
