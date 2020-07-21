@@ -1,7 +1,9 @@
 Welcome to docs.specflow.org!
 =============================
 
-You can find the documents for our products
+docs.specflow.org is the home for SpecFlow, SpecFlow+ and SpecMap documentation for end users and developers. 
+
+You can find the documents for our products:
 
 - `SpecFlow <https://docs.specflow.org/projects/specflow/en/latest>`_
 - `SpecFlow+ Runner <https://docs.specflow.org/projects/specflow-runner/en/latest/>`_
@@ -9,11 +11,11 @@ You can find the documents for our products
 - `SpecFlow+ Excel <https://docs.specflow.org/projects/specflow-excel/en/latest/>`_
 
 
+Check out also our collection of examples, book recommendations, presentations and videos:
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
-
+   
    Examples.md
    Blogposts.md
    Books.md
