@@ -12,4 +12,4 @@ We have collected some helpful blog posts to make it easier for you to get start
 - [Diego Blond: Introdução ao SpecFlow (in Portuguese/em Português)](https://perdidonoteste.wordpress.com/2016/01/16/specflow-parte-01/)
 - [marshinov: SpecFlow A to Z (in Russian/по-русски)](https://habr.com/ru/post/182032/)
 
-Do you have any further blog posts you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow) or send us a tweet [@specflow](https://twitter.com/specflow)
+Do you know any further blog posts you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow), tweet us [@specflow](https://twitter.com/specflow) or just send us a pull request on GitHub
