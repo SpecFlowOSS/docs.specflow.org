@@ -10,4 +10,4 @@ We have collected some helpful presentations and videos to make it easier for yo
 - Darren Caulthon: SpecFlow Assist Comparison Helper Methods Demo: [Video (Youtube)](http://www.youtube.com/watch?v=nu5tJIuB62s)
 - Execute Automation: [BDD and SpecFlow video series](https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI)
 
-Do you have any further presentations or videos you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow) or send us a tweet [@specflow](https://twitter.com/specflow)
+Do you know any further presentations or videos you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow), tweet us [@specflow](https://twitter.com/specflow) or just send us a pull request on GitHub
