@@ -24,7 +24,7 @@ You can find here the sample projects for the [Given-When-Then With Style series
 
 - [Challenge 1-2](https://github.com/SpecFlowOSS/gwt-with-style-challenge1-2)
 
-## Community Samples
+## Community Sample Projects
 
 - **Tawfik Nouri**: [BDD/TDD With SpecFlow & .NET Core](https://github.com/tawfiknouri/BDD-TDD_ParkingCostCalculator_SpecFlow)
 
