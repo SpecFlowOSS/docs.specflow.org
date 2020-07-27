@@ -9,4 +9,4 @@ We have collected some helpful books to make it easier for you to get started wi
 - Ian Dees, Matt Wynne and Aslak Hellesoy: [Cucumber Recipes: Automate Anything with BDD Tools and Techniques (Pragmatic Programmers)](http://www.amazon.com/gp/product/1937785017/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1937785017&linkCode=as2&tag=tech02d9-20)
 - Gaspar Nagy & Seb Rose: [Discovery: Explore behavior using examples](http://bddbooks.com/)
 
-Do you have any further books you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow) or send us a tweet [@specflow](https://twitter.com/specflow)
+Do you know any further books you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow), tweet us [@specflow](https://twitter.com/specflow) or just send us a pull request on GitHub
