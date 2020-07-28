@@ -13,6 +13,7 @@
 
 import os
 import xml.etree.ElementTree as ET
+from datetime import datetime
 
 
 def setup(app):
@@ -134,6 +135,7 @@ def create_sitemap(app, exception):
         ET.SubElement(url, "loc").text = site_url + scheme.format(
             lang=lang, version=version, link=link
         )
+        ET.SubElement(url, "last_mod").text = datetime.now().strftime('%Y-%m-%dT%H:%M:%S+01:00')
 
         if len(app.locales) > 0:
             for lang in app.locales:
