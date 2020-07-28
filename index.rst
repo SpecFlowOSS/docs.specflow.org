@@ -1,5 +1,5 @@
 Welcome to the SpecFlow Documentation!
-=============================
+======================================
 
 docs.specflow.org is the home for SpecFlow, SpecFlow+ and SpecMap documentation for end users and developers. 
 
