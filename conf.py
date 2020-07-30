@@ -65,7 +65,7 @@ html_js_files = [
 ]
 html_baseurl = 'https://docs.specflow.org/en/latest/'
 
-html_extra_path = ['robots.txt']
+html_extra_path = ['robots.txt', 'sitemap_index.xml']
 
 sys.path.append(os.path.abspath('exts'))
 
