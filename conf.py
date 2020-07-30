@@ -69,4 +69,4 @@ html_extra_path = ['robots.txt']
 
 sys.path.append(os.path.abspath('exts'))
 
-sitemap_name = 'sitemap_generated.xml'
+sitemap_filename = 'sitemap_generated.xml'
