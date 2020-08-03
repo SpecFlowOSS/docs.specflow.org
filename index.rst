@@ -9,6 +9,7 @@ You can find the documents for the following products:
 - `SpecFlow+ Runner <https://docs.specflow.org/projects/specflow-runner/en/latest/>`_
 - `SpecFlow+ LivingDoc <https://docs.specflow.org/projects/specflow-livingdoc/en/latest/>`_
 - `SpecFlow+ Excel <https://docs.specflow.org/projects/specflow-excel/en/latest/>`_
+- `SpecMap <https://docs.specflow.org/projects/specmap/en/latest/>`_
 
 
 Check out also our collection of examples, book recommendations, presentations and videos:
