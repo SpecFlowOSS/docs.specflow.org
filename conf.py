@@ -71,4 +71,4 @@ sys.path.append(os.path.abspath('exts'))
 
 sitemap_filename = 'sitemap_generated.xml'
 
-sitemap_url_scheme = "{lang}{version}/{link}"
+sitemap_url_scheme = "{lang}latest/{link}"
