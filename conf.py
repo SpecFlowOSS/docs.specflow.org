@@ -63,7 +63,7 @@ html_css_files = [
 html_js_files = [
     'js/hotjar.js',
 ]
-html_baseurl = 'https://docs.specflow.org/en/latest/'
+html_baseurl = 'https://docs.specflow.org/'
 
 html_extra_path = ['robots.txt', 'sitemap_index.xml']
 
