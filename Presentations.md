@@ -10,7 +10,7 @@ We have collected some helpful presentations and videos to make it easier for yo
 - Darren Caulthon: SpecFlow Assist Demo: [Video (Youtube)](http://www.youtube.com/watch?v=Dsk0EE43Tg4)
 - Darren Caulthon: SpecFlow Assist Comparison Helper Methods Demo: [Video (Youtube)](http://www.youtube.com/watch?v=nu5tJIuB62s)
 - Execute Automation: [BDD and SpecFlow video series](https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI)
-- Naeem Akram: .NET Core - SpecFlow.Nunit & Appium WinAppDriver Test Automation Beginner Tutorial [Video (YouTube)](https://www.youtube.com/watch?v=Vt_k8siSF3Q)
+- Naeem Akram: .NET Core - SpecFlow.Nunit & Appium WinAppDriver Test Automation Beginner Tutorial: [Video (YouTube)](https://www.youtube.com/watch?v=Vt_k8siSF3Q)
 
 ## Specification By Example
 
@@ -18,6 +18,6 @@ We have collected some helpful presentations and videos to make it easier for yo
 
 ## Living Documentation
 
-- Naeem Akram: Generate test automation report with SpecFlow Plus LivingDocs in .NET Core Beginner Tutorial [Video (YouTube)](https://www.youtube.com/watch?v=4mkYASrmZ98)
+- Naeem Akram: Generate test automation report with SpecFlow Plus LivingDocs in .NET Core Beginner Tutorial: [Video (YouTube)](https://www.youtube.com/watch?v=4mkYASrmZ98)
 
 Do you know any further presentations or videos you would recommend? Please let us know on [LinkedIn](https://www.linkedin.com/company/specflow), tweet us [@specflow](https://twitter.com/specflow) or just send us a pull request on GitHub
