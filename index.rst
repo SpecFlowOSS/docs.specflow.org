@@ -11,6 +11,8 @@ You can find the documents for the following products:
 - `SpecFlow+ Excel <https://docs.specflow.org/projects/specflow-excel/en/latest/>`_
 - `SpecMap <https://docs.specflow.org/projects/specmap/en/latest/>`_
 
+A detailed step- by- step guide to start with SpecFlow can be found at: `<https://docs.specflow.org/projects/getting-started/en/latest/>`_
+
 
 Check out also our collection of examples, book recommendations, presentations and videos:
 
