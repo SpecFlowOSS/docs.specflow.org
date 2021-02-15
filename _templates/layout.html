@@ -235,7 +235,10 @@
     ga('send', 'pageview');
     </script>
 
-    <!-- Facebook Pixel Code -->
+    {% endif %}
+  {% endif %}
+      
+          <!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -253,8 +256,6 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-    {% endif %}
-  {% endif %}
 
   {%- block footer %} {% endblock %}
 
