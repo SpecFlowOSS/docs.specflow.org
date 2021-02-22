@@ -109,7 +109,7 @@ Documentation Home
             </td>
             </tr>
             <tr style="height: 18px;">
-            <td style="width: 43.9371%; height: 18px;">
+            <td style="width: 45%; height: 18px;">
             <ul>
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/getting-started/en/latest/">SpecFlow step-by-step getting started guide</a></span></li>
             </ul>
@@ -117,7 +117,7 @@ Documentation Home
             <td style="width: 91%;"><em>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</em></td>
             </tr>
             <tr style="height: 18px;">
-            <td style="width: 43.9371%; height: 18px;">
+            <td style="width: 45%; height: 18px;">
             <ul>
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html">SpecFlow+LivingDoc for Azure DevOps guide</a></span></li>
             </ul>
@@ -125,7 +125,7 @@ Documentation Home
             <td style="width: 91%;"><em>Install and configure LivingDoc in Azure DevOps</em></td>
             </tr>
             <tr style="height: 18px;">
-            <td style="width: 43.9371%; height: 18px;">
+            <td style="width: 45%; height: 18px;">
             <ul>
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html">SpecFlow+LivingDoc generator guide</a></span></li>
             </ul>
