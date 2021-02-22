@@ -114,7 +114,7 @@ Documentation Home
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/getting-started/en/latest/">SpecFlow step-by-step getting started guide</a></span></li>
             </ul>
             </td>
-            <td style="width: 90.4548%;"><em>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</em></td>
+            <td style="width: 91%;"><em>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</em></td>
             </tr>
             <tr style="height: 18px;">
             <td style="width: 43.9371%; height: 18px;">
@@ -122,7 +122,7 @@ Documentation Home
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html">SpecFlow+LivingDoc for Azure DevOps guide</a></span></li>
             </ul>
             </td>
-            <td style="width: 90.4548%;"><em>Install and configure LivingDoc in Azure DevOps</em></td>
+            <td style="width: 91%;"><em>Install and configure LivingDoc in Azure DevOps</em></td>
             </tr>
             <tr style="height: 18px;">
             <td style="width: 43.9371%; height: 18px;">
@@ -130,7 +130,7 @@ Documentation Home
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html">SpecFlow+LivingDoc generator guide</a></span></li>
             </ul>
             </td>
-            <td style="width: 90.4548%;"><em>Install and configure LivingDoc generator</em></td>
+            <td style="width: 91%;"><em>Install and configure LivingDoc generator</em></td>
             </tr>
             </tbody>
             </table>
@@ -143,7 +143,7 @@ Documentation Home
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Presentations.html">Presentations &amp; Videos</a></span></li>
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Podcasts.html">Podcasts</a></span></li>
             </ul>
-            <p>If you want to know more about upcoming features and what the team is working on right now, please check out our public roadmap:</p>
+            <p>If you want to know more about upcoming features and what the team is working on right now, check out our public roadmap:</p>
             <ul>
             <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/roadmap.html">Public roadmap</a></span></li>
             </ul>
