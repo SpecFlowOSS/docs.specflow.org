@@ -5,8 +5,8 @@ Documentation Home
 
              <embed>
                      <p>Welcome to SpecFlow's documentation home for end-users and developers. You will find all the materials you need to help you get started, optimize, integrate and troubleshoot your use of SpecFlow products. If you are new to SpecFlow, we highly recommend you to check out the getting started guides.&nbsp;</p>
-            <p style="text-align: center;">Explore by product:</p>
-            <table style="border-collapse: collapse; width: 100%;" border="0">
+            <p style="text-align: left;">Explore by product:</p>
+            <table style="border-collapse: collapse; width: 60%;" border="0">
             <tbody>
             <tr>
             <td style="width: 20%;"><!--Button--><center>
