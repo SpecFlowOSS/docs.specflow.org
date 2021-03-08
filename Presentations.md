@@ -11,7 +11,7 @@ We have collected some helpful presentations and videos to make it easier for yo
 - Darren Caulthon: SpecFlow Assist Comparison Helper Methods Demo: [Video (Youtube)](http://www.youtube.com/watch?v=nu5tJIuB62s)
 - Execute Automation: [BDD and SpecFlow video series](https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI)
 - Naeem Akram: .NET Core - SpecFlow.Nunit & Appium WinAppDriver Test Automation Beginner Tutorial: [Video (YouTube)](https://www.youtube.com/watch?v=Vt_k8siSF3Q)
-- Getting Started With Specflow and Selenium by LambdaTest [Video (YouTube)](https://www.youtube.com/watch?v=qPu-QgpsWXE)
+- Getting Started With Specflow and Selenium by LambdaTest: [Video (YouTube)](https://www.youtube.com/watch?v=qPu-QgpsWXE)
 
 ## Specification By Example
 
