@@ -22,7 +22,7 @@ You can find a number of [SpecFlow+](https://github.com/techtalk/SpecFlow.Plus.E
 
 - [**AsyncAwait**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/AsyncAwait): This example shows how to implement a step definition which calls the `HttpClient.GetAsync` method
 
-- [**A Selenium UI automation project**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/CalculatorSelenium): A UI automation sample project using Selenium with Page Object Model Pattern. A step0by-step guide for this repo is also available [here](https://docs.specflow.org/projects/specflow/en/latest/ui-automation/Selenium-with-Page-Object-Pattern.html).
+- [**A Selenium UI automation project**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/CalculatorSelenium): A UI automation sample project using Selenium with Page Object Model Pattern. A step-by-step guide for this repo is also available [here](https://docs.specflow.org/projects/specflow/en/latest/ui-automation/Selenium-with-Page-Object-Pattern.html).
 
 - [**SampleMethodTagDecorator**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/Decorators/SampleMethodTagDecorator): Sample project showcasing Sample Method Tag Decorator
 
