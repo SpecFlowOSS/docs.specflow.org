@@ -13,7 +13,7 @@ You can find a number of [SpecFlow+](https://github.com/techtalk/SpecFlow.Plus.E
 - [**Custom Deploymen tSteps**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/CustomDeploymentSteps): Sample project based on the WindowsAppDriver project demonstrating custom deployment steps
 - [**Filter Example**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/FilterExample): Sample project using filters to only run a subset of tests
 - [**Multiple Reports**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/MultipleReports): Sample project using SpecFlow+ Runner to output multiple reports using custom templates
-- [**TestT hread Isolation**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/TestThreadIsolation): Sample project showing the effects of different test thread isolation configurations for multi threaded testing
+- [**Test Thread Isolation**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/TestThreadIsolation): Sample project showing the effects of different test thread isolation configurations for multi threaded testing
 - [**AppVeyor_Support**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/AppVeyor_Support): Sample project showing how to use SpecFlow+Runner with [AppVeyor](http://www.appveyor.com/)
 
 - [**Bookshop example**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ASP.NET-MVC/BookShop) : An end-to-end example project that explains how to use SpecFlow and the SpecFlow+ Runner in a simple web application project
