@@ -33,3 +33,11 @@ a, a:visited, a:hover {
 .wy-nav-content {
     max-width: 80%;
 }
+
+
+.wy-body-for-nav 
+.wy-nav-content-wrap {
+
+    background: #F4F7FD!important;
+
+}
