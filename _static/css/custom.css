@@ -1,5 +1,5 @@
 .wy-side-nav-search {
-    background-color: #e9e7ee;
+    background-color: #F4F7FD;
 }
 a, a:visited, a:hover {
     color: #8588b6
@@ -14,12 +14,12 @@ a, a:visited, a:hover {
 }
 
 .wy-menu {
-    background-color: #e9e7ee;
+    background-color: #F4F7FD;
 }
 
 .wy-nav-side {
-    color:#e9e7ee;
-    background-color: #e9e7ee;
+    color:#F4F7FD;
+    background-color: #F4F7FD;
 }
 
 .wy-menu-vertical li.current {
