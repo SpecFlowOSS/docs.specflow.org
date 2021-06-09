@@ -161,7 +161,16 @@ Documentation Home
    Books.md
    Presentations.md
    Podcasts.md
+   
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Account
+   :hidden:
+      
    specflowaccount.md
+   migrateaccount.md
+   managinglicenses.md   
 
 
 
