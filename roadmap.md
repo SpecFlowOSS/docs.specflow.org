@@ -1,11 +1,12 @@
 # Public Roadmap
 
 ## Now
----
+-------
 ### In Progress
-- Understanding why certain scenarios or steps fail during test execution. 
 
-   - We will enable the output of screenshots for failed scenarios and steps and display them in [SpecFlow+ LivingDoc Generator](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html). 
+- Draft and collaborate on Gherkin feature files directly in your browser.
+
+  - We will enable a way to write, edit, save and share Gherkin feature files directly in your browser without the need of using an IDE.
 
 ### Discovery
 
@@ -24,7 +25,6 @@
 
     - We will enable a way to write, edit and save your Gherkin feature files directly in the work item details page of Azure DevOps.
 
-
 - Sign-up for your SpecFlow account using GitHub.
 
   - We will enable the sign-up with GitHub for your SpecFlow account. Register once and get the most out of SpecFlow. Use [SpecFlow+ Runner](https://specflow.org/plus/runner/), [SpecFlow+ LivingDoc](https://specflow.org/plus/livingdoc/) (only needed for Azure DevOps) and SpecMap completely for free, no license costs.
@@ -34,6 +34,10 @@
 - Working with Bindings and Gherkin Feature Files in [JetBrains Rider](https://www.jetbrains.com/rider/).
 
   - We will improve the navigation to and from bindings and will enable the generation of skeleton code including step definition methods from feature files. Here you can download and install the latest version: [SpecFlow for Rider Plugin](https://plugins.jetbrains.com/plugin/15957-specflow-for-rider/)
+
+- Understanding why certain scenarios or steps fail during test execution. 
+
+   - We will enable the output of screenshots for failed scenarios and steps and display them in [SpecFlow+ LivingDoc Generator](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html). 
 
 ## Feature Requests and Feedback
 ---
