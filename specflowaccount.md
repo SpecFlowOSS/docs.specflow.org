@@ -40,7 +40,7 @@ In Visual Studio it looks like this:
 
 **5-** After you finished the sign-up, return to your IDE and run your scenarios again.
 
-**Important Note for Active Directory Approvals:** It might be possible, that your Active Directory admin needs to grant you and your team permission to use the SpecFlow+ Runner due to your organizations’ Active Directory configuration. Learn more about admin consents [here](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-admin-consent-workflow).
+**Important Note for Active Directory Approvals:** It might be possible, that your Active Directory admin needs to grant you and your team [permission to use the SpecFlow+ Runner](./adminconsent.md) due to your organizations’ Active Directory configuration. Learn more about admin consents [here](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-admin-consent-workflow).
 
 **Note for Build Agents:** These steps should not be necessary on a build server. If you are seeing the console output regarding a missing account on your build server, please [open a support request](https://support.specflow.org/hc/en-us/requests/new?_gl=1*xhyt1h*_ga*MTY5OTI0NzMxNy4xNjIyMDEzOTkw*_ga_BZ55XKTXC6*MTYyMzA1NjAyNS4zMi4xLjE2MjMwNTkxMzIuMA..&_ga=2.249510983.1114192995.1623048727-1699247317.1622013990) and let us know what build server you are using.
 
@@ -62,7 +62,7 @@ To create your account:
 
 **5-** Return to SpecFlow+ LivingDoc and refresh your browser.
 
-**Important Note for Active Directory Approvals:** It might be possible, that your Active Directory admin needs to grant you and your team permission to use the SpecFlow+ LivingDoc due to your organizations’ Active Directory configuration. Learn more about admin consents [here](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-admin-consent-workflow).
+**Important Note for Active Directory Approvals:** It might be possible, that your Active Directory admin needs to grant you and your team [permission to use the SpecFlow+ LivingDoc](./adminconsent.md) due to your organizations’ Active Directory configuration. Learn more about admin consents [here](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-admin-consent-workflow).
 
 ### Do you have any further questions?
 
