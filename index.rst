@@ -170,7 +170,8 @@ Documentation Home
       
    specflowaccount.md
    migrateaccount.md
-   managinglicenses.md   
+   managinglicenses.md
+   adminconsent.md   
 
 
 
