@@ -40,6 +40,8 @@ You can find a number of [SpecFlow+](https://github.com/techtalk/SpecFlow.Plus.E
 
 - [**Multiple Browsers against different Environments**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/MultipleBrowserAgainstDifferentEnvironments): This is a example how to use SpecFlow and SpecFlow+Runner to run Selenium   Web Tests for different Browsers and different environments.
 
+- [**External Data Plugin Example**](https://github.com/SpecFlowOSS/SpecFlow-Examples/tree/master/ExternalDataSample): Sample project to showcase the use of [SpecFlow External Data Plugin](https://docs.specflow.org/projects/specflow/en/latest/Guides/externaldata.html)
+
 ---
 
 <table border="0" style="width: 87.6784%; border-collapse: collapse; border-style: none; margin-left: auto; margin-right: auto; height: 214px;">
