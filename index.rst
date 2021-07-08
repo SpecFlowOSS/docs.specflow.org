@@ -4,150 +4,113 @@ Documentation Home
 .. raw:: html
 
              <embed>
-                     <p>Welcome to SpecFlow's documentation home for end-users and developers. You will find all the materials you need to help you get started, optimize, integrate and troubleshoot your use of SpecFlow products. If you are new to SpecFlow, we highly recommend you to check out the getting started guides.&nbsp;</p>
-            <p style="text-align: left;">Explore by product:</p>
-            <table style="border-collapse: collapse; width: 60%;" border="0">
-            <tbody>
-            <tr>
-            <td style="width: 20%;"><!--Button--><center>
-            <table width="50%" cellspacing="0" cellpadding="0" align="center">
-            <tbody>
-            <tr>
-            <td style="padding: 5px;" align="left">
-            <table class="mobile-button" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-            <td style="background-color: #F4F7FD; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px;" align="left" bgcolor="#F4F7FD" width="100%"><!-- [if mso]>&nbsp;<![endif]--> <strong><a style="12px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; text-align: center; background-color: #F4F7FD; text-decoration: none; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; display: inline-block;" href="https://docs.specflow.org/projects/specflow/en/latest/" target="_blank" rel="noopener"> <span style="font-size: 15px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; line-height: 1.5em; text-align: center;">SpecFlow</span> </a></strong> <!-- [if mso]>&nbsp;<![endif]--></td>
-            </tr>
-            </tbody>
-            </table>
-            </td>
-            </tr>
-            </tbody>
-            </table>
-            </center></td>
-            <td style="width: 20%;"><!--Button--><center>
-            <table width="50%" cellspacing="0" cellpadding="0" align="center">
-            <tbody>
-            <tr>
-            <td style="padding: 5px;" align="left">
-            <table class="mobile-button" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-            <td style="background-color: #F4F7FD; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px;" align="left" bgcolor="#F4F7FD" width="100%"><!-- [if mso]>&nbsp;<![endif]--> <strong><a style="12px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; text-align: center; background-color: #F4F7FD; text-decoration: none; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; display: inline-block;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/" target="_blank" rel="noopener"> <span style="font-size: 15px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; line-height: 1.5em; text-align: center;">SpecFlow+LivingDoc</span> </a></strong> <!-- [if mso]>&nbsp;<![endif]--></td>
-            </tr>
-            </tbody>
-            </table>
-            </td>
-            </tr>
-            </tbody>
-            </table>
-            </center></td>
-            <td style="width: 20%;"><!--Button--><center>
-            <table width="50%" cellspacing="0" cellpadding="0" align="center">
-            <tbody>
-            <tr>
-            <td style="padding: 5px;" align="left">
-            <table class="mobile-button" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-            <td style="background-color: #F4F7FD; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px;" align="left" bgcolor="#F4F7FD" width="100%"><!-- [if mso]>&nbsp;<![endif]--> <strong><a style="12px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; text-align: center; background-color: #F4F7FD; text-decoration: none; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; display: inline-block;" href="https://docs.specflow.org/projects/specflow-runner/en/latest/" target="_blank" rel="noopener"> <span style="font-size: 15px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; line-height: 1.5em; text-align: center;">SpecFlow+Runner</span> </a></strong> <!-- [if mso]>&nbsp;<![endif]--></td>
-            </tr>
-            </tbody>
-            </table>
-            </td>
-            </tr>
-            </tbody>
-            </table>
-            </center></td>
-            <td style="width: 20%;"><!--Button--><center>
-            <table width="50%" cellspacing="0" cellpadding="0" align="center">
-            <tbody>
-            <tr>
-            <td style="padding: 5px;" align="left">
-            <table class="mobile-button" style="width: 142px;" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-            <td style="background-color: #F4F7FD; margin: auto; max-width: 600px; border-radius: 10px; padding: 15px 20px; width: 98px;" align="left" bgcolor="#F4F7FD"><!-- [if mso]>&nbsp;<![endif]--> <a style="12px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; text-align: center; background-color: #F4F7FD; text-decoration: none; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; display: inline-block;" href="https://docs.specflow.org/projects/specflow-excel/en/latest/" target="_blank" rel="noopener"> <span style="font-size: 15px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; line-height: 1.5em; text-align: center;">SpecFlow+Excel</span> </a> <!-- [if mso]>&nbsp;<![endif]--></td>
-            </tr>
-            </tbody>
-            </table>
-            </td>
-            </tr>
-            </tbody>
-            </table>
-            </center></td>
-            <td style="width: 20%;"><!--Button--><center>
-            <table width="50%" cellspacing="0" cellpadding="0" align="center">
-            <tbody>
-            <tr>
-            <td style="padding: 5px;" align="left">
-            <table class="mobile-button" border="0" cellspacing="0" cellpadding="0">
-            <tbody>
-            <tr>
-            <td style="background-color: #F4F7FD; margin: auto; max-width: 600px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 15px 20px;" align="left" bgcolor="#F4F7FD" width="100%"><!-- [if mso]>&nbsp;<![endif]--> <a style="12px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; text-align: center; background-color: #F4F7FD; text-decoration: none; border: none; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; display: inline-block;" href="https://docs.specflow.org/projects/specmap/en/latest/" target="_blank" rel="noopener"> <span style="font-size: 15px; font-family: Lucida, Geneva, Verdana, sans-serif; color: #6c6fb1; font-weight: normal; line-height: 1.5em; text-align: center;">SpecMap</span> </a> <!-- [if mso]>&nbsp;<![endif]--></td>
-            </tr>
-            </tbody>
-            </table>
-            </td>
-            </tr>
-            </tbody>
-            </table>
-            </center></td>
-            </tr>
-            </tbody>
-            </table>
-            <hr />
-            <table style="height: 72px; width: 71.3903%; border-collapse: collapse; border-color: #6c6fb1;" border="0">
-            <tbody>
-            <tr style="height: 18px;">
-            <td style="width: 43.9371%; height: 18px;">
-            <p>Getting started:</p>
-            </td>
-            <td style="width: 90.4548%;">
-            <p>&nbsp;</p>
-            </td>
-            </tr>
-            <tr style="height: 18px;">
-            <td style="width: 48%; height: 18px;">
-            <ul>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/getting-started/en/latest/">SpecFlow step-by-step getting started guide</a></span></li>
-            </ul>
-            </td>
-            <td style="width: 91%;"><em>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</em></td>
-            </tr>
-            <tr style="height: 18px;">
-            <td style="width: 48%; height: 18px;">
-            <ul>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html">SpecFlow+LivingDoc for Azure DevOps guide</a></span></li>
-            </ul>
-            </td>
-            <td style="width: 91%;"><em>Install and configure LivingDoc in Azure DevOps</em></td>
-            </tr>
-            <tr style="height: 18px;">
-            <td style="width: 48%; height: 18px;">
-            <ul>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html">SpecFlow+LivingDoc generator guide</a></span></li>
-            </ul>
-            </td>
-            <td style="width: 91%;"><em>Install and configure LivingDoc generator</em></td>
-            </tr>
-            </tbody>
-            </table>
-            <hr />
-            <p>Check out our collection of examples, book recommendations, presentations and videos:</p>
-            <ul>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Examples.html">Examples</a></span></li>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Blogposts.html">Blogposts</a></span></li>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Books.html">Books</a></span></li>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Presentations.html">Presentations &amp; Videos</a></span></li>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/Podcasts.html">Podcasts</a></span></li>
-            </ul>
-            <p>If you want to know more about upcoming features and what the team is working on right now, check out our public roadmap:</p>
-            <ul>
-            <li><span style="color: #339966;"><a style="color: #6c6fb1;" href="https://docs.specflow.org/en/latest/roadmap.html">Public roadmap</a></span></li>
-            </ul>
-            <p>&nbsp;</p>
+             <div class="docs-home">
+             <style>
+                :root {
+                   --primary-color: #8588b6;
+                }
+                .docs-home h4 {
+                   margin-bottom: 1rem;
+                }
+                .docs-home ul.product-list {
+                   list-style-type: none !important;
+                   display: flex;
+                   flex-wrap: wrap;
+                }
+                .docs-home ul.product-list li {
+                   display: inline-block;
+                   margin-left: 0;
+                }
+                .docs-home ul.product-list li:not(:last-of-type) {
+                   margin-right: 1rem;
+                }
+                .docs-home ul.product-list li a {
+                   display: block;
+                   border: 2px solid var(--primary-color);
+                   border-radius: 8px;
+                   color: var(--primary-color);
+                   padding: 8px 12px;
+                   font-weight: bold;
+                   transition: all 400ms ease;
+                }
+                .docs-home ul.product-list li a:hover {
+                   background-color: var(--primary-color);
+                   color: white;
+                }
+ 
+                .docs-home #getting-started-list li {
+                   color: inherit;
+                   margin-bottom: 1rem;
+                }
+                .docs-home #getting-started-list p {
+                   margin: 0;
+                }
+                .docs-home #getting-started-list li strong {
+                   color: var(--primary-color);
+                }
+ 
+                @media screen and (max-width: 768px){
+                   .wy-nav-content-wrap .wy-nav-content {
+                      max-width: unset !important;
+                   }
+                }
+ 
+             </style>
+             <p>Welcome to SpecFlow's documentation home for end-users and developers. You will find all the materials you need to help you get started, optimize, integrate and troubleshoot your use of SpecFlow products. If you are new to SpecFlow, we highly recommend you to check out the getting started guides.&nbsp;</p>
+             
+             <h4>Explore by product:</h4>
+             <ul class="product-list">            
+                <li><a href="https://docs.specflow.org/projects/specflow/en/latest/" target="_blank" rel="noopener">SpecFlow</a></li>
+                <li><a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/" target="_blank" rel="noopener">SpecFlow+LivingDoc</a></li>
+                <li><a href="https://docs.specflow.org/projects/specflow-runner/en/latest/" target="_blank" rel="noopener">SpecFlow+Runner</a></li>
+                <li><a href="https://docs.specflow.org/projects/specflow-gherkin-editor/en/latest/" target="_blank" rel="noopener">SpecFlow Gherkin Editor</a></li>
+             </ul>
+ 
+             <h4>Legacy products:</h4>
+             <ul class="product-list">            
+                <li><a href="https://docs.specflow.org/projects/specflow-excel/en/latest/" target="_blank" rel="noopener">SpecFlow+Excel</a></li>
+                <li><a href="https://docs.specflow.org/projects/specmap/en/latest/" target="_blank" rel="noopener">SpecMap</a></li>
+             </ul>
+ 
+             <h4>Getting started:</h4>
+             <ul id="getting-started-list">
+                <li>
+                      <strong>SpecFlow step-by-step getting started guide</strong>
+                      <p>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</p>
+                      <a href="https://docs.specflow.org/projects/getting-started/en/latest/">
+                         Learn more &#187;
+                      </a>
+                </li>
+                <li>
+                      <strong>SpecFlow+LivingDoc for Azure DevOps guide</strong>
+                      <p>Install and configure LivingDoc in Azure DevOps</p>
+                      <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html">
+                         Learn more &#187;
+                      </a>
+                </li>
+                <li>
+                      <strong>SpecFlow+LivingDoc generator guide</strong>
+                      <p>Install and configure LivingDoc generator</p>
+                      <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html">
+                         Learn more &#187;
+                      </a>
+                </li>
+             </ul>
+ 
+             <h4>Further reading:</h4>
+             <p>Check out our collection of examples, book recommendations, presentations and videos:</p>
+             <ul>
+             <li><a href="https://docs.specflow.org/en/latest/Examples.html">Examples</a></li>
+             <li><a href="https://docs.specflow.org/en/latest/Blogposts.html">Blogposts</a></li>
+             <li><a href="https://docs.specflow.org/en/latest/Books.html">Books</a></li>
+             <li><a href="https://docs.specflow.org/en/latest/Presentations.html">Presentations &amp; Videos</a></li>
+             <li><a href="https://docs.specflow.org/en/latest/Podcasts.html">Podcasts</a></li>
+             </ul>
+             <p>If you want to know more about upcoming features and what the team is working on right now, check out our public roadmap:</p>
+             <ul>
+             <li><a href="https://docs.specflow.org/en/latest/roadmap.html">Public roadmap</a></li>
+             </ul>
+             </div>
 
          </embed>
 
