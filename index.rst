@@ -144,3 +144,10 @@ Documentation Home
    :hidden:
    
    roadmap.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Help
+   :hidden:
+   
+   faqs.rst
