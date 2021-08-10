@@ -12,9 +12,9 @@
 
   - We will update our SpecFlow extension in order to support the upcoming release of [Visual Studio 2022](https://visualstudio.microsoft.com/vs/preview/vs2022/).
 
-- Sign-up for your SpecFlow account without the need of a Microsoft account.
+- Sign-up for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor) without the need of a Microsoft account.
 
-  - We will enable the sign-up with GitHub for your SpecFlow account with email and password. 
+  - We will enable the sign-up for your SpecFlow account with email and password. 
 
 ### Discovery
 
@@ -24,7 +24,7 @@
 
 - Real-time collaboration for Gherkin feature files.
   
-  - We will enable a way to simultaneously write and edit the same Gherkin feature file at the same time together with your team.
+  - We will enable a way to simultaneously write and edit the same Gherkin feature file at the same time together with your team and stakeholder.
 
 ## Later
 ---
