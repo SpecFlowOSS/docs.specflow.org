@@ -904,11 +904,11 @@ Frequently Asked Questions
                
                Variable value: 1<br></br>                             
                
-               1. Restart the application
+               2. Restart the application
                If you run the tests with Visual Studio please restart your Visual Studio (exit, open again).
                This is necessary to pick up the new environment variable setting.<br></br>
                
-               1. Run the SpecFlow+Runner tests again
+               3. Run the SpecFlow+Runner tests again
                </div>
                </div>
  
@@ -925,11 +925,11 @@ Frequently Asked Questions
                
                 
                
-               1. Restart the application
+               2. Restart the application
                If you run the tests with Visual Studio please restart your Visual Studio (exit, open again).
                This is necessary to pick up the new environment variable setting.<br></br>
                
-               1. Run the SpecFlow+Runner tests again<br></br>
+               3. Run the SpecFlow+Runner tests again<br></br>
                </div>
                </div>
 

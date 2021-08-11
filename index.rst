@@ -95,8 +95,15 @@ Documentation Home
                          Learn more &#187;
                       </a>
                 </li>
-             </ul>
- 
+             </ul> 
+                        
+             <h4>SpecFlow Actions:</h4>
+             <p>To help you write easier and quicker test automation, our developers and testers have put together a series of plugins and code snippets.
+             <br></br>Check out <a href="https://docs.specflow.org/en/latest/specflowaction.html">SpecFlow Actions</a> to find out more.</p>
+            
+            
+
+
              <h4>Further reading:</h4>
              <p>Check out our collection of examples, book recommendations, presentations and videos:</p>
              <ul>
@@ -112,6 +119,10 @@ Documentation Home
              </ul>
              </div>
 
+
+
+
+
          </embed>
 
 .. toctree::
@@ -124,6 +135,7 @@ Documentation Home
    Books.md
    Presentations.md
    Podcasts.md
+   specflowaction.md
    
 
 .. toctree::
