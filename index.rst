@@ -75,21 +75,21 @@ Documentation Home
              <h4>Getting started:</h4>
              <ul id="getting-started-list">
                 <li>
-                      <strong>SpecFlow step-by-step getting started guide</strong>
+                      <a href="https://docs.specflow.org/projects/getting-started/en/latest/"><strong>SpecFlow step-by-step getting started guide</strong></a>
                       <p>Create your first SpecFlow project and automate a simple Gherkin specification against a sample application.</p>
                       <a href="https://docs.specflow.org/projects/getting-started/en/latest/">
                          Learn more &#187;
                       </a>
                 </li>
                 <li>
-                      <strong>SpecFlow+LivingDoc for Azure DevOps guide</strong>
+                      <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html"><strong>SpecFlow+LivingDoc for Azure DevOps guide</strong></a>
                       <p>Install and configure LivingDoc in Azure DevOps</p>
                       <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbsazdo.html">
                          Learn more &#187;
                       </a>
                 </li>
                 <li>
-                      <strong>SpecFlow+LivingDoc generator guide</strong>
+                      <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html"><strong>SpecFlow+LivingDoc generator guide</strong></a>
                       <p>Install and configure LivingDoc generator</p>
                       <a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/sbsguides/sbscli.html">
                          Learn more &#187;
