@@ -12,12 +12,12 @@
 
   - We will update our SpecFlow extension in order to support the upcoming release of [Visual Studio 2022](https://visualstudio.microsoft.com/vs/preview/vs2022/).
 
-- Sign-up for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor) without the need of a Microsoft account.
-
-  - We will enable the sign-up for your SpecFlow account with email and password. 
-
 ### Discovery
 
+- Dark Mode support for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor)
+  
+  - We will enable a way to switch between light and dark theme in order to increase the adoption across Developer and Tester.
+  
 - Write and edit Gherkin feature files directly from a Git repository.
   
   - We will enable a way to connect, write, edit and save Gherkin feature files directly from a Git repository without the need of using an IDE.
@@ -39,6 +39,10 @@
 
 ## Shipped
 ---
+- Sign-up for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor) without the need of a Microsoft account.
+
+  - We will enable the sign-up for your SpecFlow account with email and password. 
+
 - Draft and [collaborate on Gherkin feature files directly in your browser](https://app.specflow.org/gherkin-editor).
 
   - We will enable a way to [write, edit, save and share Gherkin feature files](https://specflow.org/tools/online-gherkin-editor/) directly in your browser without the need of using an IDE.
