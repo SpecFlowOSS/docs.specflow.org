@@ -30,18 +30,22 @@ This code snippets shows you how to bring your custom test output to the unit te
 
 - [Selenium](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Selenium)
 
-This SpecFlow.Action will help you use Selenium together with SpecFlow. It handles the lifetime of your browser and provides easy configuration and helper methods to interact with Selenium.
+This plugin will help you use Selenium together with SpecFlow. It handles the lifetime of your browser and provides easy configuration and helper methods to interact with Selenium.
 
 - [BoaConstrictor](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.BoaConstrictor)
 
-This SpecFlow.Action will help you use [Boa-Constrictor](https://github.com/q2ebanking/boa-constrictor) together with SpecFlow to use the Screenplay Pattern for Selenium more easily.
+This plugin will help you use [Boa-Constrictor](https://github.com/q2ebanking/boa-constrictor) together with SpecFlow to use the Screenplay Pattern for Selenium more easily.
 In the background it is using [SpecFlow.Actions.Selenium](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Selenium) so all functionality of it is also available, if you are using Boa-Constrictor.
 Boa-Constrictor is configured out of the box. The logger is connected to the [SpecFlow Output API](https://docs.specflow.org/projects/specflow/en/latest/outputapi/outputapi.html).
 
 - [Browserstack](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/Specflow.Actions.Browserstack)
 
-This SpecFlow.Action will help you use Browserstack and Selenium together with SpecFlow. As an extension of [SpecFlow.Actions.Selenium](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Selenium), It handles the lifetime of your browser and provides seamless integration with the Browserstack Automate feature.
+This plugin will help you use Browserstack and Selenium together with SpecFlow. As an extension of [SpecFlow.Actions.Selenium](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Selenium), It handles the lifetime of your browser and provides seamless integration with the Browserstack Automate feature.
 
 - [Docker](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Docker)
 
-This SpecFlow.Actions will help you by using Docker together with SpecFlow.
+This plugin will help you by using Docker together with SpecFlow.
+
+- [Playwright](https://github.com/SpecFlowOSS/SpecFlow.Actions/tree/main/Plugins/SpecFlow.Actions.Playwright)
+
+This plugin will help you use [Playwright](https://playwright.dev/) together with SpecFlow. It handles the initialization and lifetime of your browser, provides methods to work with your page selectors and a configuration that makes it easy to set up the browser instance.
