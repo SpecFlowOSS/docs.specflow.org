@@ -22,7 +22,7 @@ You need to specify your license key and the licensee *(“Issued to”)* values
 
 ### Registering your license with SpecFlow+ Runner 3 or higher
 
-If you are using SpecFlow+ Runner with .NET Core, you need to [install the SpecFlow licensing tool](https://specflow.org/plus/documentation/SpecFlowPlus-Licensing-Tool/) and use that to [register your license](https://specflow.org/plus/documentation/SpecFlow.Plus.License-Commands/).
+If you are using SpecFlow+ Runner with .NET Core, you need to [install the SpecFlow licensing tool](https://docs.specflow.org/projects/specflow-runner/en/latest/Installation/SpecFlowPlus-Licensing-Tool.html) and use that to [register your license](https://docs.specflow.org/projects/specflow-runner/en/latest/Installation/SpecFlow.Plus.License-Commands.html).
 
 To install the tool:
 
