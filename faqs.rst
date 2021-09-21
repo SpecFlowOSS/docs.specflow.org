@@ -3343,6 +3343,47 @@ Frequently Asked Questions
               </div>
             </div>
 
+             <div
+              class="question"
+              itemprop="mainEntity"
+              itemscope=""
+              itemtype="https://schema.org/Question"
+            >
+              <h2 itemprop="name"
+                >What kind of permission are required for creating a SpecFlow account?</h2
+              >
+              <div
+                class="answer"
+                itemprop="acceptedAnswer"
+                itemscope=""
+                itemtype="https://schema.org/Answer"
+              >
+                <div itemprop="text">
+                We request the minimum possible permission set necessary to authenticate the user with a Microsoft account, which consists of:<br></br>
+                  - "Sign you in and read your profile"
+                  The "User.Read" permission is required by the SpecFlow account to allow users to sign-in
+                  to the SpecFlow application, and allows the SpecFlow application to read the basic profile information
+                  of the signed-in user.<a
+                    href="https://docs.microsoft.com/en-us/graph/permissions-reference#user-permissions"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    > More info here</a
+                  > 
+                  <br></br>
+                  - "Maintain access to data you have given it access to"
+                  This permission appears on all Microsoft consent screens automatically and it is not used by the SpecFlow account.
+                   <a
+                    href="https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    > More info here</a
+                  > 
+                
+                
+                </div>
+              </div>
+            </div>
+
             <div
               class="question"
               itemprop="mainEntity"
