@@ -1,22 +1,16 @@
 # Public Roadmap
 
 ## Now
+
 -------
+
 ### In Progress
 
 - Support for .NET 6
 
   - We will support the upcoming release of [.NET 6](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) for SpecFlow.
 
-- Visual Studio 2022 Extension
-
-  - We will update our SpecFlow extension in order to support the upcoming release of [Visual Studio 2022](https://visualstudio.microsoft.com/vs/preview/vs2022/).
-
 ### Discovery
-
-- Dark Mode support for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor)
-  
-  - We will enable a way to switch between light and dark theme in order to increase the adoption across Developer and Tester.
   
 - Write and edit Gherkin feature files directly from a Git repository.
   
@@ -27,21 +21,24 @@
   - We will enable a way to simultaneously write and edit the same Gherkin feature file at the same time together with your team and stakeholder.
 
 ## Later
----
+
+-------
 
 - Write and edit Gherkin feature files directly on a Backlog Item.
 
-    - We will enable a way to write, edit and save your Gherkin feature files directly in the work item details page of Azure DevOps.
+  - We will enable a way to write, edit and save your Gherkin feature files directly in the work item details page of Azure DevOps.
 
 - Sign-up for your SpecFlow account using GitHub.
 
   - We will enable the sign-up with GitHub for your SpecFlow account. Register once and get the most out of SpecFlow. Use [SpecFlow+ Runner](https://specflow.org/plus/runner/), [SpecFlow+ LivingDoc](https://specflow.org/plus/livingdoc/) (only needed for Azure DevOps) and SpecMap completely for free, no license costs.
 
 ## Shipped
----
+
+-------
+
 - Sign-up for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor) without the need of a Microsoft account.
 
-  - We will enable the sign-up for your SpecFlow account with email and password. 
+  - We will enable the sign-up for your SpecFlow account with email and password.
 
 - Draft and [collaborate on Gherkin feature files directly in your browser](https://app.specflow.org/gherkin-editor).
 
@@ -49,12 +46,22 @@
 
 - Working with Bindings and Gherkin Feature Files in [JetBrains Rider](https://www.jetbrains.com/rider/).
 
-  - We will improve the navigation to and from bindings and will enable the generation of skeleton code including step definition methods from feature files. Here you can download and install the latest version: [SpecFlow for Rider Plugin](https://plugins.jetbrains.com/plugin/15957-specflow-for-rider/)
+  - We will improve the navigation to and from bindings and will enable the generation of skeleton code including step definition methods from feature files. Here you can download and install the latest version: [SpecFlow for Rider Plugin](https://plugins.jetbrains.com/plugin/15957-specflow-for-rider/).
 
-- Understanding why certain scenarios or steps fail during test execution. 
+- Understanding why certain scenarios or steps fail during test execution.
 
-   - We will enable the output of screenshots for failed scenarios and steps and display them in [SpecFlow+ LivingDoc Generator](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html). 
+  - We will enable the output of screenshots for failed scenarios and steps and display them in [SpecFlow+ LivingDoc Generator](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html).
+
+- Dark Mode support for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor).
+  
+  - We will enable a way to switch between light and dark theme in order to increase the adoption across Developer and Tester.
+
+- Visual Studio 2022 Extension.
+
+  - We will update our SpecFlow extension in order to support the upcoming release of [Visual Studio 2022](https://visualstudio.microsoft.com/vs/preview/vs2022/).
 
 ## Feature Requests and Feedback
----
+
+-------
+
 Help us shape our roadmap by submitting your [feature requests](https://support.specflow.org/hc/en-us/community/topics/360000519178-Feature-Requests) and joining our [inner circle](https://specflow.org/inner-circle).
