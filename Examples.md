@@ -4,13 +4,15 @@
 
 You can find a number of [SpecFlow+](https://github.com/techtalk/SpecFlow.Plus.Examples) and [SpecFlow](https://github.com/techtalk/SpecFlow-Examples/) sample projects on our GitHub page. These repositories contain the following sample projects, if you have any projects worth sharing, please consider adding them to the repositories.
 
+If you are looking for **.NET6 example** projects and ready to use code snippets and plugins then check out the [SpecFlow Actions](./specflowaction.md) page.
+
 ---
 
 - [**Getting_Started**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/Getting_Started): Simple calculator project based on the Getting Started guide with a single SpecFlow+ Runner test
 - [**Selenium Grid WebTest**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/SeleniumGridWebTest): A sample project using Selenium Grid Web with SpecFlow+ Runner
 - [**Selenium WebTest**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/SeleniumWebTest): A sample project using Selenium Web with SpecFlow+ Runner. This project also demonstrates how to include screenshots in your HTML report. Refer to the [documentation](https://docs.specflow.org/projects/specflow-runner/en/latest/Usage/Tutorial-Customising-Reports.html) for more details on embedding screenshots.
 - [**Windows AppDriver**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/WindowsAppDriver): Using WindowsAppDriver with SpecFlow+ Runner
-- [**Custom Deploymen tSteps**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/CustomDeploymentSteps): Sample project based on the WindowsAppDriver project demonstrating custom deployment steps
+- [**Custom Deployment Steps**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/CustomDeploymentSteps): Sample project based on the WindowsAppDriver project demonstrating custom deployment steps
 - [**Filter Example**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/FilterExample): Sample project using filters to only run a subset of tests
 - [**Multiple Reports**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/MultipleReports): Sample project using SpecFlow+ Runner to output multiple reports using custom templates
 - [**Test Thread Isolation**](https://github.com/SpecFlowOSS/SpecFlow.Plus.Examples/tree/master/TestThreadIsolation): Sample project showing the effects of different test thread isolation configurations for multi threaded testing
