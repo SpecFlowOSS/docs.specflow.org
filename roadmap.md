@@ -6,9 +6,9 @@
 
 ### In Progress
 
-- Support for .NET 6
+- Auto-complete for SpecFlow Gherkin editor.
 
-  - We will support the upcoming release of [.NET 6](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) for SpecFlow.
+  - Auto-complete suggestions based on existing steps to help you write Gherkin feature files faster and recycle existing steps easier.
 
 ### Discovery
   
@@ -35,6 +35,14 @@
 ## Shipped
 
 -------
+
+- Support for .NET 6.
+
+  - We will support the upcoming release of .NET 6 for SpecFlow.
+
+- SpecFlow Gherkin editor assistant.
+
+  - AI assistant helping you keep your Gherkin structure in line with the standards when using the editor.
 
 - Sign-up for the [SpecFlow Gherkin Editor](https://app.specflow.org/gherkin-editor) without the need of a Microsoft account.
 
