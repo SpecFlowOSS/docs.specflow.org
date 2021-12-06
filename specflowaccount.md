@@ -12,7 +12,7 @@ In order to license SpecFlow+ and SpecMap with the new license model:
 
 - A free Microsoft account is required. This can be your already existing personal or corporate/enterprise Microsoft Account. If you do not yet have a Microsoft account, you can [create one for free](https://account.microsoft.com/account).
 
-- Access to the internet is needed from your work environment. If you are working in an offline environment, please open a [support request](https://support.specflow.org/hc/en-us/requests/new?_gl=1*1ygfy19*_ga*MTY5OTI0NzMxNy4xNjIyMDEzOTkw*_ga_BZ55XKTXC6*MTYyMzA1NjAyNS4zMi4xLjE2MjMwNTgyNjguMA..&_ga=2.37239264.1114192995.1623048727-1699247317.1622013990) for information on how to license your software without an internet connection.
+- Access to the internet is needed from your work environment.
 
 - If you previously purchased a license from TechTalk, the terms and conditions and privacy policy have changed following the [acquisition of SpecFlow](https://specflow.org/2020/tricentis-acquires-specflow/) by Tricentis. You will need to accept these new terms when signing up.
 
@@ -42,7 +42,7 @@ In Visual Studio it looks like this:
 
 **Important Note for Active Directory Approvals:** It might be possible, that your Active Directory admin needs to grant you and your team [permission to use the SpecFlow+ Runner](./adminconsent.md) due to your organizations’ Active Directory configuration. Learn more about admin consents [here](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-admin-consent-workflow).
 
-**Note for Build Agents:** These steps should not be necessary on a build server. If you are seeing the console output regarding a missing account on your build server, please [open a support request](https://support.specflow.org/hc/en-us/requests/new?_gl=1*xhyt1h*_ga*MTY5OTI0NzMxNy4xNjIyMDEzOTkw*_ga_BZ55XKTXC6*MTYyMzA1NjAyNS4zMi4xLjE2MjMwNTkxMzIuMA..&_ga=2.249510983.1114192995.1623048727-1699247317.1622013990) and let us know what build server you are using.
+**Note for Build Agents:** These steps should not be necessary on a build server.
 
 ### SpecFlow+ LivingDoc
 
@@ -66,6 +66,5 @@ To create your account:
 
 ### Do you have any further questions?
 
-We want to make the transition as easy as possible.  If you have any questions or concerns, please take a look at our [FAQs](https://specflow.org/plus/documentation/FAQ/) or open a [support request](https://support.specflow.org/hc/en-us/requests/new?_gl=1*103mr8h*_ga*MTY5OTI0NzMxNy4xNjIyMDEzOTkw*_ga_BZ55XKTXC6*MTYyMzA1NjAyNS4zMi4xLjE2MjMwNTkxMzIuMA..&_ga=2.208090450.1114192995.1623048727-1699247317.1622013990).
-
+We want to make the transition as easy as possible.  If you have any questions or concerns, please take a look at our [FAQs](https://specflow.org/plus/documentation/FAQ/).
 Are you new to SpecFlow? Start with our easy to follow [Step-by-Step Getting Started](https://docs.specflow.org/projects/getting-started/en/latest/) and learn how to setup SpecFlow, and the SpecFlow+ products.
