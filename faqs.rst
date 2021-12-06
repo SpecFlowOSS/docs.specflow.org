@@ -3216,14 +3216,8 @@ Frequently Asked Questions
               >
                 <div itemprop="text">
                   We currently do not have this feature in our product range.
-                  Please reach out to support
-                  <a
-                    href="https://support.specflow.org/agent/dashboard"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >here</a
-                  >
-                  and we will take care of it for you.
+                  Please reach out to support at info@specflow.org and we will take care of it for you.           
+                  
                 </div>
               </div>
             </div>
@@ -3299,14 +3293,8 @@ Frequently Asked Questions
                 itemtype="https://schema.org/Answer"
               >
                 <div itemprop="text">
-                  If you would like to delete your SpecFlow account, please open
-                  a
-                  <a
-                    href="https://support.specflow.org/hc/en-us/requests/new"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >support request</a
-                  >. Note that deleting your account will prevent you from using
+                  If you would like to delete your SpecFlow account, please email us at info@specflow.org.                               
+                  Note that deleting your account will prevent you from using
                   any of the licensed products (SpecFlow+ Runner, SpecFlow+
                   LivingDoc, SpecMap). Deleting your account will not affect any
                   data stored locally in Azure DevOps. Even after your account
@@ -3400,16 +3388,7 @@ Frequently Asked Questions
                 itemtype="https://schema.org/Answer"
               >
                 <div itemprop="text">
-                  If you are working in an offline environment, please open a
-                  <a
-                    href="https://support.specflow.org/hc/en-us/requests/new"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >support request</a
-                  >. You will receive information on how to license your
-                  software without an internet connection. We intend to provide
-                  an offline licensing method in the future to cater to this
-                  need
+                  We no longer give out offline licenses.
                 </div>
               </div>
             </div>
@@ -3433,15 +3412,7 @@ Frequently Asked Questions
                 <div itemprop="text">
                   SpecFlow+ Runner recognizes the most popular build servers and
                   does not require a product activation when running in build
-                  server mode. If you encounter problems with running your tests
-                  on a build server please open a
-                  <a
-                    href="https://support.specflow.org/hc/en-us/requests/new"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    >support request</a
-                  >
-                  with the details of your build server.
+                  server mode.
                 </div>
               </div>
             </div>

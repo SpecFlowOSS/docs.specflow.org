@@ -87,4 +87,4 @@ Migrate from an active license key for SpecMap to the new SpecFlow account:
 
 ### Do you have any further questions?
 
-We want to make the transition as easy as possible. If you have any questions or concerns, please take a look at our [FAQs](https://specflow.org/plus/documentation/FAQ/) or open a [support request](https://support.specflow.org/hc/en-us/requests/new?_gl=1*zb56rv*_ga*MTY5OTI0NzMxNy4xNjIyMDEzOTkw*_ga_BZ55XKTXC6*MTYyMzIzNzI5MC40My4xLjE2MjMyNDM2NDcuMA..&_ga=2.49084006.1114192995.1623048727-1699247317.1622013990).
+We want to make the transition as easy as possible. If you have any questions or concerns, please take a look at our [FAQs](https://specflow.org/plus/documentation/FAQ/).
