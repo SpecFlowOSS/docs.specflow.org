@@ -62,12 +62,12 @@ Documentation Home
              <ul class="product-list">            
                 <li><a href="https://docs.specflow.org/projects/specflow/en/latest/" target="_blank" rel="noopener">SpecFlow</a></li>
                 <li><a href="https://docs.specflow.org/projects/specflow-livingdoc/en/latest/" target="_blank" rel="noopener">SpecFlow+LivingDoc</a></li>
-                <li><a href="https://docs.specflow.org/projects/specflow-runner/en/latest/" target="_blank" rel="noopener">SpecFlow+Runner</a></li>
                 <li><a href="https://docs.specflow.org/projects/specflow-gherkin-editor/en/latest/" target="_blank" rel="noopener">SpecFlow Gherkin Editor</a></li>
              </ul>
  
              <h4>Legacy products:</h4>
-             <ul class="product-list">            
+             <ul class="product-list">
+                <li><a href="https://docs.specflow.org/projects/specflow-runner/en/latest/" target="_blank" rel="noopener">SpecFlow+Runner</a></li>            
                 <li><a href="https://docs.specflow.org/projects/specflow-excel/en/latest/" target="_blank" rel="noopener">SpecFlow+Excel</a></li>
                 <li><a href="https://docs.specflow.org/projects/specmap/en/latest/" target="_blank" rel="noopener">SpecMap</a></li>
              </ul>
