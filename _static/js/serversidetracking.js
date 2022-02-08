@@ -49,5 +49,6 @@ if( typeof dataLayer === 'undefined' ) {
         'external_id':  getCookie('userId'),
         'fbc':          getCookie('_fbc'),
         'fbp':          getCookie('_fbp'),
+        'analytics_storage':getCookie('v_c_analytics_storage'),
     } );
 } 
