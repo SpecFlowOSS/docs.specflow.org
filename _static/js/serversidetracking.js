@@ -42,7 +42,7 @@ if( getCookie('userId').length < 1 ) {
 if( typeof dataLayer === 'undefined' ) {
     let eventId =  getEventId();
     dataLayer = [{'eventId': eventId}];
-    $.post( "/wp-content/plugins/fb-sst/t.php", {
+    $.post( "https://specflow.org/wp-content/plugins/fb-sst/t.php", {
         'eventId':      eventId,
         'sourceUrl':    window.location.origin + window.location.pathname,
         'event_name':   'PageView',
